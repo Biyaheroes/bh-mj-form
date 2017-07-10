@@ -1,2 +1,2 @@
 # bh-mj-form
-Biyaheroes MJML Issue Component.
+Biyaheroes MJML Form Component.
