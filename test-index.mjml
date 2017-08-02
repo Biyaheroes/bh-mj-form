@@ -1,7 +1,0 @@
-<mjml>
-	<mj-body>
-		<mj-container>
-			<mj-form label="This is a form"/>
-		</mj-container>
-	</mj-body>
-</mjml>
