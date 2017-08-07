@@ -1,7 +1,8 @@
 {
 	"name": "bh-mj-form",
 	"description": "Biyaheroes MJML Form Component",
-	"main": ".filter.js",
+	"main": "form.deploy.js",
+	"support": "form.module.jsx",
 	"authors": [
 		"Biyaheroes Developers <developers@biyaheroes.com>"
 	],

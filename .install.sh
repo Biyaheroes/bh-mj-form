@@ -11,11 +11,13 @@ yarn add \
 babel-cli \
 babel-core \
 babel-loader \
+babel-preset-env \
 babel-plugin-transform-runtime \
+babel-plugin-transform-class-properties \
 babel-plugin-transform-decorators-legacy \
+babel-plugin-transform-object-rest-spread \
 babel-plugin-transform-react-constant-elements \
 babel-plugin-transform-react-inline-elements \
-babel-preset-latest \
 babel-preset-react \
 bower-resolve-webpack-plugin \
 css-loader \
@@ -32,8 +34,8 @@ looks-same \
 mjml \
 mocha \
 nchunk \
+node-sass \
 plough \
-postcss-loader \
 resolve-url-loader \
 sass-loader \
 scrshot \
